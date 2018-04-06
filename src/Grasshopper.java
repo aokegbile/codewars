@@ -1,4 +1,4 @@
-public class GrassHopper {
+public class Grasshopper {
 
     public static String weatherInfo(int temp) {
         double c = convertToCelsius(temp);
